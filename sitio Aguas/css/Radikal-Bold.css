@@ -1,0 +1,12 @@
+/* Webfont: Radikal-Bold */@font-face {
+    font-family: 'Radikal';
+    src: url('Radikal-Bold.eot'); /* IE9 Compat Modes */
+    src: url('Radikal-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Radikal-Bold.woff') format('woff'), /* Modern Browsers */
+         url('Radikal-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Radikal-Bold.svg#Radikal-Bold') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

@@ -1,0 +1,12 @@
+/* Webfont: Radikal */@font-face {
+    font-family: 'Radikal';
+    src: url('Radikal.eot'); /* IE9 Compat Modes */
+    src: url('Radikal.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Radikal.woff') format('woff'), /* Modern Browsers */
+         url('Radikal.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Radikal.svg#Radikal') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
